@@ -108,6 +108,8 @@ border: 1px solid #aaa;
     font-size: 0.9rem;
     background-color: #eee;
     border: #ccc;
+    position: relative;
+    bottom: 0;
     
         
 }
